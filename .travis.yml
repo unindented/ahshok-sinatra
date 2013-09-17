@@ -1,0 +1,10 @@
+sudo: false
+
+language: ruby
+rvm:
+  - 2.2.4
+
+addons:
+  apt:
+    packages:
+      - postgresql-server-dev-9.4

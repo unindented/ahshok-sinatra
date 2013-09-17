@@ -1,0 +1,21 @@
+test:
+  database_url:  'sqlite::memory:'
+  amazon_tag:    'faketag-20'
+  amazon_key:    'FAKEACCESSKEYID'
+  amazon_secret: 'FAKESECRETACCESSKEY'
+
+# If you are using `foreman`, you may prefer to create a `.env` file. If not,
+# uncomment these lines and set your configuration here.
+#development:
+#  database_url:  'sqlite:db/app.db'
+#  amazon_tag:    'realtag-20'
+#  amazon_key:    'REALACCESSKEYID'
+#  amazon_secret: 'REALSECRETACCESSKEY'
+
+# If you are on Heroku, use `heroku config:add`. If not, uncomment these lines
+# and set your configuration here.
+#production:
+#  database_url:  'mysql://user:password@hostname/database'
+#  amazon_tag:    'realtag-20'
+#  amazon_key:    'REALACCESSKEYID'
+#  amazon_secret: 'REALSECRETACCESSKEY'
