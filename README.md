@@ -1,4 +1,4 @@
-# Ahshok [![Build Status](https://img.shields.io/travis/unindented/ahshok-sinatra.svg)](http://travis-ci.org/unindented/ahshok-sinatra) [![Dependency Status](https://img.shields.io/gemnasium/unindented/ahshok-sinatra.svg)](https://gemnasium.com/unindented/ahshok-sinatra) ![Abandoned](https://img.shields.io/badge/status-abandoned-red.svg)
+# Ahshok [![Build Status](https://img.shields.io/travis/unindented/ahshok-sinatra.svg)](http://travis-ci.org/unindented/ahshok-sinatra) ![Abandoned](https://img.shields.io/badge/status-abandoned-red.svg)
 
 Small Sinatra app that masks Amazon associate links, so that when the client makes the following request:
 
